@@ -1,0 +1,23 @@
+pip
+bumpversion
+wheel
+watchdog
+flake8
+tox
+coverage
+Sphinx
+sphinx_rtd_theme
+pygments
+cryptography
+PyYAML
+pytest
+pytest-runner
+numpy
+scipy
+xarray
+numba >= 0.38
+homog >= 0.1.10
+xbin >= 0.1.5
+tqdm
+toolz
+cffi

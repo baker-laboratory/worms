@@ -1,0 +1,1947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"align_vectors"
+			],
+			[
+				"check",
+				"check_nc_linear"
+			],
+			[
+				"sphe",
+				"sphere_surface"
+			],
+			[
+				"merge_resul",
+				"merge_results_concat"
+			],
+			[
+				"to_seg",
+				"to_segA"
+			],
+			[
+				"tgt",
+				"tgtaxis2"
+			],
+			[
+				"tgta",
+				"tgtaxis1"
+			],
+			[
+				"enum",
+				"enum_paths"
+			],
+			[
+				"to",
+				"topolist"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"pr",
+				"prune_to_asu"
+			],
+			[
+				"remo",
+				"remove_me"
+			],
+			[
+				"top",
+				"topology"
+			],
+			[
+				"cont",
+				"context_structure"
+			],
+			[
+				"ibb",
+				"ibblock_list"
+			],
+			[
+				"ssd",
+				"ssdag"
+			],
+			[
+				"bbloc",
+				"bblock_dump_pdb"
+			],
+			[
+				"bbna",
+				"bbnames_list"
+			],
+			[
+				"merge_seg",
+				"merge_segment"
+			],
+			[
+				"merge_",
+				"merge_segment"
+			],
+			[
+				"mrege",
+				"merge_segment"
+			],
+			[
+				"err",
+				"err_list"
+			],
+			[
+				"crit",
+				"criteria"
+			],
+			[
+				"prev",
+				"prevresult"
+			],
+			[
+				"bbs",
+				"bbspec"
+			],
+			[
+				"merge",
+				"merge_site2"
+			],
+			[
+				"merge_s",
+				"merge_site1"
+			],
+			[
+				"imer",
+				"imergeseg"
+			],
+			[
+				"mer",
+				"merge_results_bridge"
+			],
+			[
+				"_ha",
+				"_khash_get"
+			],
+			[
+				"hash",
+				"hash_table"
+			],
+			[
+				"filter",
+				"filter_binner"
+			],
+			[
+				"filt",
+				"filter_hash"
+			],
+			[
+				"_h",
+				"_khash_size"
+			],
+			[
+				"from",
+				"from_seg"
+			],
+			[
+				"h",
+				"hash_table"
+			],
+			[
+				"disable",
+				"disable_clash_check"
+			],
+			[
+				"rot_",
+				"rot_err_sq"
+			],
+			[
+				"car",
+				"cart_err_sq"
+			],
+			[
+				"rot",
+				"rot_err_sq"
+			],
+			[
+				"paer",
+				"pairs_with_no_valid_splices"
+			],
+			[
+				"merge_bb",
+				"merge_bblock_list"
+			],
+			[
+				"only",
+				"only_merge_bblocks"
+			],
+			[
+				"splice_max_",
+				"splice_max_chain_length"
+			],
+			[
+				"all",
+				"allowed_entries"
+			],
+			[
+				"_gro",
+				"_grow_linear_recurse"
+			],
+			[
+				"cached",
+				"cachedirs"
+			],
+			[
+				"out",
+				"output_AAAA"
+			],
+			[
+				"nres",
+				"nresults_with_dups"
+			],
+			[
+				"worsm",
+				"worms_main2"
+			],
+			[
+				"criter",
+				"criteria_list"
+			],
+			[
+				"max",
+				"max_linear"
+			],
+			[
+				"max_",
+				"max_search_results"
+			],
+			[
+				"bbl",
+				"bblockfile"
+			],
+			[
+				"orig",
+				"orig_output_prefix"
+			],
+			[
+				"crite",
+				"criteria_list"
+			],
+			[
+				"cri",
+				"criteria_list"
+			],
+			[
+				"cr",
+				"criteria_list"
+			],
+			[
+				"con",
+				"config_file"
+			],
+			[
+				"mem_",
+				"mem_vert"
+			],
+			[
+				"splice_cl",
+				"splice_clash_contact_by_helix"
+			],
+			[
+				"spli",
+				"splice_nhelix_contacted_cut"
+			],
+			[
+				"splice_",
+				"splice_ncontact_no_helix_cut"
+			],
+			[
+				"after",
+				"after_contact_res"
+			],
+			[
+				"hel",
+				"helixof0"
+			],
+			[
+				"hran",
+				"hrange0"
+			],
+			[
+				"cla",
+				"clashd2"
+			],
+			[
+				"sp",
+				"splice_contact_d2"
+			],
+			[
+				"clash",
+				"splice_clash_d2"
+			],
+			[
+				"splice_sl",
+				"splice_clash_contact_range"
+			],
+			[
+				"helix",
+				"helixof0"
+			],
+			[
+				"clash_",
+				"_clash_contact_simple"
+			],
+			[
+				"z",
+				"zeros"
+			],
+			[
+				"bef",
+				"before_contact_res"
+			],
+			[
+				"map",
+				"map_resis_to_asu"
+			],
+			[
+				"app",
+				"append_subpose_to_pose"
+			],
+			[
+				"output",
+				"output_prefix"
+			],
+			[
+				"splice",
+				"splice_res_n"
+			],
+			[
+				"worms",
+				"worms_filter_audit_cache"
+			],
+			[
+				"splic",
+				"splice_res_c"
+			],
+			[
+				"info",
+				"info_file"
+			],
+			[
+				"pre",
+				"precompute_splicedb"
+			],
+			[
+				"cell_",
+				"cell_dist_scale"
+			],
+			[
+				"cell",
+				"cell_dist_scale"
+			],
+			[
+				"scel",
+				"cell_dist_scale"
+			],
+			[
+				"cry",
+				"cryst_info"
+			],
+			[
+				"target",
+				"target_angle"
+			],
+			[
+				"load_fr",
+				"load_from_pdbs_multiprocess"
+			],
+			[
+				"res",
+				"restore_caches"
+			],
+			[
+				"cle",
+				"clear_caches"
+			],
+			[
+				"is",
+				"islocked_cachedir"
+			],
+			[
+				"un",
+				"unlock_cachedir"
+			],
+			[
+				"as",
+				"as_completed"
+			],
+			[
+				"rea",
+				"read_new_pdbs"
+			],
+			[
+				"build",
+				"build_pdb_data"
+			],
+			[
+				"Not",
+				"FileNotFoundError"
+			],
+			[
+				"pb",
+				"pbar_interval"
+			],
+			[
+				"curr",
+				"current_vertex"
+			],
+			[
+				"ib",
+				"ibase"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"shuffle",
+				"shuffle_bblocks"
+			],
+			[
+				"quer",
+				"queries"
+			],
+			[
+				"exc",
+				"exclude_bases"
+			],
+			[
+				"pdb",
+				"dump_pdb"
+			],
+			[
+				"same",
+				"same_as_last"
+			],
+			[
+				"num",
+				"num_contacts_no_helix"
+			],
+			[
+				"num_",
+				"num_contacts"
+			],
+			[
+				"min",
+				"min_helices_contacted"
+			],
+			[
+				"junc",
+				"junct_str1"
+			],
+			[
+				"fin",
+				"final_junction_res"
+			],
+			[
+				"postf",
+				"postfilt_splice_nhelix_contacted_cut"
+			],
+			[
+				"jun",
+				"junct_str"
+			],
+			[
+				"min_con",
+				"min_contacts_no_helix"
+			],
+			[
+				"outp",
+				"output_prefix"
+			],
+			[
+				"j",
+				"junct_str1"
+			],
+			[
+				"splice_postfil",
+				"splice_postfilt_ncontact_cut"
+			],
+			[
+				"i",
+				"ithird"
+			],
+			[
+				"che",
+				"check_new_interface"
+			],
+			[
+				"score",
+				"score0sym"
+			],
+			[
+				"tq",
+				"tqdm_pos"
+			],
+			[
+				"merg",
+				"merge_segment"
+			],
+			[
+				"ssda",
+				"ssdagA"
+			],
+			[
+				"ssdag",
+				"ssdagB"
+			],
+			[
+				"ss",
+				"ssdadA"
+			],
+			[
+				"dir",
+				"directions"
+			],
+			[
+				"ver",
+				"vertex_xform_dtype"
+			],
+			[
+				"vert",
+				"vertex_xform_dtype"
+			],
+			[
+				"cur",
+				"current_vertex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "worms/database.py",
+			"settings":
+			{
+				"buffer_size": 24047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "worms/util.py",
+			"settings":
+			{
+				"buffer_size": 15668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "worms/bblock.py",
+			"settings":
+			{
+				"buffer_size": 11683,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sheffler/src/homog/homog/homog.py",
+			"settings":
+			{
+				"buffer_size": 23043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cre",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"crea",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"cerarig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"create",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"despr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"creatp",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"GitGutter: Disable for View"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"doc",
+				"AutoDocstring: Current"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"creat",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"destroy curr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"arith",
+				"Arithmetic"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"docstr",
+				"AutoDocstring: Current"
+			],
+			[
+				"auto",
+				"AutoDocstring: Current"
+			],
+			[
+				"fold",
+				"Fold Python : fold depth 2"
+			],
+			[
+				"fol",
+				"Fold Python : fold depth 1"
+			],
+			[
+				"autodo",
+				"AutoDocstring: Current"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"removep ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"yap",
+				"PyYapf: Format Document"
+			],
+			[
+				"unzoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"zoom",
+				"Origami: Zoom/Unzoom Current Pane (Toggle Zoom)"
+			],
+			[
+				"unzoom",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"prefer",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"projec",
+				"Project: Edit Project"
+			],
+			[
+				"oricreri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold ",
+				"Preferences: Fold Python Settings"
+			],
+			[
+				"fold al",
+				"Code Folding: Unfold All"
+			],
+			[
+				"f",
+				"Fold Python : fold depth 1"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"destry",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"zoo",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"creari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"creri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"createpari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"desp",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"create pari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"autofor",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"edip",
+				"Project: Edit Project"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"toggle m",
+				"View: Toggle Menu"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"cerpale",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"crepari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"descu",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"creapari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destroy cu",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sub",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"toggme",
+				"View: Toggle Menu"
+			],
+			[
+				"crepanri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"revrese",
+				"Permute Lines: Reverse"
+			],
+			[
+				"creab",
+				"Origami: Create Pane Below"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggmen",
+				"View: Toggle Menu"
+			],
+			[
+				"createp",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"crepa",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"togme",
+				"View: Toggle Menu"
+			],
+			[
+				"tomu",
+				"View: Toggle Menu"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				" createpaneri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destroy",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"status b",
+				"View: Toggle Status Bar"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 597.0,
+		"history":
+		[
+			"os.environ['PATH']",
+			"print(sys.version)",
+			"import os",
+			"print(sys.path)",
+			"print(sys.executable)",
+			"import sys",
+			"os.environ['PATH']",
+			"import os",
+			"sys.path",
+			"import sys",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(sys.executable)",
+			"print sys.executable",
+			"import sys"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/digs/sheffler/src/worms_beta"
+	],
+	"file_history":
+	[
+		"/jojo/src/worms_beta/worms/bblock.py",
+		"/jojo/src/worms_beta/worms/database.py",
+		"/jojo/src/worms_beta/worms/topology.py",
+		"/jojo/src/worms_beta/worms/criteria/unbounded.py",
+		"/jojo/.conda/envs/worms/lib/python3.6/site-packages/homog/homog.py",
+		"/home/sheffler/src/homog/homog/homog.py",
+		"/jojo/src/tmol/dev/will/mgpu_play.cpp",
+		"/home/sheffler/debug/bridge/robby/EXT6_DHR_database.txt",
+		"/home/sheffler/debug/bridge/robby/dhr/EXT6-DHR10.pdb",
+		"/home/sheffler/src/worms/worms/util.py",
+		"/home/sheffler/src/worms/worms/cli.py",
+		"/home/sheffler/src/worms/worms/app.py",
+		"/home/sheffler/src/worms/worms/merge/concat.py",
+		"/home/sheffler/src/worms/worms/merge/wye.py",
+		"/home/sheffler/src/worms/worms/criteria/bounded.py",
+		"/home/sheffler/src/worms/worms/output.py",
+		"/home/sheffler/src/worms/worms/topology.py",
+		"/home/sheffler/debug/bridge/robby/ab_cast2.flags",
+		"/home/sheffler/debug/bridge/robby/test_db.json",
+		"/home/sheffler/src/worms/test_cases/score_sym_bug.py",
+		"/jojo/home/natteruw/worms-project/NEW_worms/crystals/output/worms_mbb0000__0000_152-618_HFuse_2L6HC3-13_3_0023_ex92_en151_HFuse_Sh29_3_3c_3a_2144_ex381_en124_HFuse_5L6HC3-1_3_0051__AAAA.sym",
+		"/home/sheffler/src/worms/worms/criteria/unbounded.py",
+		"/home/sheffler/debug/layers/worms_mbb0007__0003_96-674_HBRP_yh_011_ex12_en95_HFuse_Sh34_3_3c_3a_0183_ex361_en8_HFuse_3L6HC2-4_2_0022__AAAA.sym",
+		"/home/sheffler/debug/layers/sheet_p6.flags",
+		"/home/sheffler/debug/threecomp/threecomp.flags",
+		"/home/sheffler/debug/layers/sheet_p321.flags",
+		"/home/sheffler/debug/layers/sheet_p4212.flags",
+		"/home/sheffler/debug/layers/worms_mbb0007__0011_129-803_HFuse_5L8HC4-6_4_0006_ex15_en652_HFuse_Sh29_3_3c_3a_1646_ex407_en12___AAAA.sym",
+		"/home/sheffler/debug/layers/worms_mbb0007__0018_121-790_HFuse_2L6HC3-13_3_0068_ex9_en120_HFuse_Sh34_3_3c_3a_0932_ex410_en9_HFuse_3L6HC2-4_2_0013__AAAA.sym",
+		"/home/sheffler/src/worms/worms/tests/test_topology.py",
+		"/home/sheffler/src/worms/worms/search/result.py",
+		"/home/sheffler/src/worms/worms/criteria/bridge.py",
+		"/home/sheffler/src/worms/examples/peacemaker.py",
+		"/home/sheffler/src/worms/examples/build_worms_database.py",
+		"/home/sheffler/src/worms/worms/criteria/cyclic.py",
+		"/home/sheffler/src/worms/worms/criteria/null.py",
+		"/home/sheffler/src/worms/worms/criteria/stack.py",
+		"/home/sheffler/src/worms/worms/ssdag.py",
+		"/home/sheffler/src/worms/worms/vertex.py",
+		"/home/sheffler/src/worms/worms/topolopy.py",
+		"/home/sheffler/src/worms/util/make_sphere_asym.py",
+		"/home/sheffler/src/worms/worms/data/sphere.py",
+		"/home/sheffler/src/worms/worms/filters/clash.py",
+		"/home/sheffler/src/worms/worms/vis/plot.py",
+		"/home/sheffler/src/worms/worms/filters/geometry.py",
+		"/home/sheffler/debug/porosity/test_porosity.flags",
+		"/home/sheffler/src/worms/worms/bblock.py",
+		"/home/sheffler/src/homog/homog/sym.py",
+		"/home/sheffler/src/worms/worms/vis/vis_pymol.py",
+		"/home/sheffler/src/worms/examples/glumpy_points.py",
+		"/home/sheffler/src/worms/examples/plot3d.py",
+		"/home/sheffler/src/worms/worms/vis/plot3d.py",
+		"/home/sheffler/src/worms/worms/vis/__init__.py",
+		"/home/sheffler/src/worms/worms/vis/__init.py",
+		"/home/sheffler/src/worms/examples/glumpy_side_by_side.py",
+		"/home/sheffler/src/worms/examples/glumpy_trackball.py",
+		"/home/sheffler/src/worms/examples/glumpy_example.py",
+		"/home/sheffler/src/worms/examples/glumpy.py",
+		"/home/sheffler/src/worms/worms/criteria/__init__.py",
+		"/home/sheffler/rosetta/master/source/src/numeric/sphericalVector.hh",
+		"/home/sheffler/src/worms/examples/flags/database_will_laptop.flags",
+		"/home/sheffler/src/worms/worms/criteria/fiber.py",
+		"/home/sheffler/src/worms/worms/database.py",
+		"/home/sheffler/src/worms/worms/filters/db_filters.py",
+		"/home/sheffler/debug/bridge/worms_mbb0000___HEADER.info",
+		"/home/sheffler/debug/bridge/worms_mbb0000.info",
+		"/home/sheffler/debug/bridge/worms_mbb0005.info",
+		"/home/sheffler/src/worms/worms_mbb0000___HEADER.info",
+		"/home/sheffler/src/worms/worms_mbb0000.info",
+		"/home/sheffler/src/worms/worms/edge.py",
+		"/home/sheffler/rosetta/master/source/src/basic/options/options_rosetta.py",
+		"/home/sheffler/src/worms/worms/clashgrid.py",
+		"/home/sheffler/src/worms/log/sublime_build.log",
+		"/home/sheffler/debug/bridge/bridge_pos_control_2.json",
+		"/home/sheffler/src/worms/worms/data/master_database_generation2.json",
+		"/home/sheffler/debug/bridge/bridge_pos_control_2.flags",
+		"/home/sheffler/debug/bridge/ajasja_bridge.flags",
+		"/home/sheffler/src/worms/worms/tests/criteria/test_hash_util.py",
+		"/home/sheffler/pymol3/pymol_util.py",
+		"/home/sheffler/Downloads/c4m.sym",
+		"/home/sheffler/debug/bridge/ajasja.pdb1",
+		"/home/sheffler/debug/bridge/ajasja.json",
+		"/home/sheffler/debug/bridge/ajasja.flags",
+		"/home/sheffler/debug/bridge/bridge_pos_control_3.json",
+		"/home/sheffler/debug/bridge/bridge_pos_control_3.flags",
+		"/home/sheffler/src/worms/worms/segments.py",
+		"/home/sheffler/src/worms/worms/criteria/hash_util.py",
+		"/home/sheffler/debug/bridge/bridge_pos_control.json",
+		"/home/sheffler/debug/bridge/cyclic1.flags",
+		"/home/sheffler/debug/bridge/bridge_pos_control.flags",
+		"/home/sheffler/src/worms/log6",
+		"/home/sheffler/debug/bridge/acbridge.json",
+		"/home/sheffler/debug/bridge/ac.pdb1",
+		"/home/sheffler/debug/bridge/brigde.pdb1",
+		"/home/sheffler/src/worms/worms/search/linear.py",
+		"/home/sheffler/src/worms/worms/tests/test_khash.py",
+		"/home/sheffler/src/worms/worms/khash/khash_int2int.h",
+		"/home/sheffler/src/worms/worms/khash/khash_cffi.py",
+		"/home/sheffler/debug/bridge/robby.flags",
+		"/home/sheffler/rosetta/master/source/src/numeric/xyzTransform.hh",
+		"/home/sheffler/debug/bridge/ALSD01_2018-11-07.database",
+		"/home/sheffler/rosetta/scheme_hier/source/src/numeric/xyzTransform.hh",
+		"/home/sheffler/debug/bridge/robby.pdb2",
+		"/home/sheffler/debug/bridge/robby.json",
+		"/home/sheffler/debug/bridge/robby.pdb1",
+		"/home/sheffler/rosetta/master/source/src/core/conformation/symmetry/SymmData.cc",
+		"/home/sheffler/debug/bridge/test.py",
+		"/home/sheffler/pymol3/xyzMath.py",
+		"/home/sheffler/debug/yang_stack/stack_will.flags",
+		"/home/sheffler/src/worms/test_cases/pose_memory_leak.py",
+		"/home/sheffler/src/worms/worms/data/wheel/test_c2.flags",
+		"/home/sheffler/src/worms/worms/data/wheel/test_c3.flags",
+		"/home/sheffler/src/worms/worms/data/wheel/test_c6.flags",
+		"/home/sheffler/src/worms/worms/tests/test_edge_batch.py",
+		"/home/sheffler/src/worms/worms/edge_batch.py",
+		"/home/sheffler/src/worms/worms/tests/test_edge.py",
+		"/home/sheffler/src/worms/examples/filter_audit.py",
+		"/home/sheffler/src/worms/worms/rosetta_symdef/O.sym",
+		"/home/sheffler/src/worms/worms/tests/test_database.py",
+		"/home/sheffler/src/worms/environment.yml",
+		"/home/sheffler/src/worms/examples/flags/test_donut.flags",
+		"/home/sheffler/src/worms/examples/prefilter_test.py",
+		"/home/sheffler/src/worms/worms/filters/interface_contacts.py",
+		"/home/sheffler/src/worms/worms/tests/conftest.py",
+		"/home/sheffler/src/worms/worms/tests/search/test_linear.py",
+		"/home/sheffler/src/worms/setup.py",
+		"/home/sheffler/src/worms/requirements_rtd.txt",
+		"/home/sheffler/src/worms/requirements_dev.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 693.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_alldb",
+			"hash",
+			"_dictdb",
+			"get_json_entry",
+			"entry.*base",
+			"missing",
+			"pose_from_file",
+			"BBlock",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "worms/database.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3512,
+								3512
+							]
+						],
+						"settings":
+						{
+							"sublime_recent_sort_is_transient": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "worms/util.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15434,
+								15434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8705.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "worms/bblock.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1195,
+								1195
+							]
+						],
+						"settings":
+						{
+							"sublime_recent_sort_is_transient": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/sheffler/src/homog/homog/homog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16127,
+								16127
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 224.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "util_runtests.py",
+	"project": "worms.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"util",
+				"worms/util.py"
+			],
+			[
+				"bblo",
+				"worms/bblock.py"
+			],
+			[
+				"databa",
+				"worms/database.py"
+			],
+			[
+				"bblock",
+				"worms/bblock.py"
+			],
+			[
+				"unboun",
+				"worms/criteria/unbounded.py"
+			],
+			[
+				"topo",
+				"worms/topology.py"
+			],
+			[
+				"cli",
+				"worms/cli.py"
+			],
+			[
+				"geome",
+				"worms/filters/geometry.py"
+			],
+			[
+				"output",
+				"worms/output.py"
+			],
+			[
+				"app",
+				"worms/app.py"
+			],
+			[
+				"brid",
+				"worms/criteria/bridge.py"
+			],
+			[
+				"ssda",
+				"worms/ssdag.py"
+			],
+			[
+				"topolo",
+				"worms/topology.py"
+			],
+			[
+				"outup",
+				"worms/output.py"
+			],
+			[
+				"outp",
+				"worms/output.py"
+			],
+			[
+				"conca",
+				"worms/merge/concat.py"
+			],
+			[
+				"bound",
+				"worms/criteria/bounded.py"
+			],
+			[
+				"result",
+				"worms/search/result.py"
+			],
+			[
+				"cycli",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"test_top",
+				"worms/tests/test_topology.py"
+			],
+			[
+				"ver",
+				"worms/vertex.py"
+			],
+			[
+				"ssdag",
+				"worms/ssdag.py"
+			],
+			[
+				"clash",
+				"worms/filters/clash.py"
+			],
+			[
+				"plot",
+				"worms/vis/plot.py"
+			],
+			[
+				"vis",
+				"worms/vis/__init__.py"
+			],
+			[
+				"vis_py",
+				"worms/vis/vis_pymol.py"
+			],
+			[
+				"trackba",
+				"examples/glumpy_trackball.py"
+			],
+			[
+				"glumpy",
+				"examples/glumpy_points.py"
+			],
+			[
+				"exam",
+				"examples/glumpy_example.py"
+			],
+			[
+				"geom",
+				"worms/filters/geometry.py"
+			],
+			[
+				"bri",
+				"worms/criteria/bridge.py"
+			],
+			[
+				"db_fil",
+				"worms/filters/db_filters.py"
+			],
+			[
+				"edge",
+				"worms/edge.py"
+			],
+			[
+				"cyclic",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"vert",
+				"worms/vertex.py"
+			],
+			[
+				"segment",
+				"worms/segments.py"
+			],
+			[
+				"hash_ut",
+				"worms/criteria/hash_util.py"
+			],
+			[
+				"subli",
+				"log/sublime_build.log"
+			],
+			[
+				"log",
+				"log/sublime_build.log"
+			],
+			[
+				"Vertex",
+				"worms/vertex.py"
+			],
+			[
+				"linear",
+				"worms/search/linear.py"
+			],
+			[
+				"hash",
+				"worms/criteria/hash_util.py"
+			],
+			[
+				"test_kha",
+				"worms/tests/test_khash.py"
+			],
+			[
+				"khash",
+				"worms/khash/khash_cffi.py"
+			],
+			[
+				"criteria __init",
+				"worms/criteria/__init__.py"
+			],
+			[
+				"cyc",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"cycl",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"test_c6",
+				"worms/data/wheel/test_c6.flags"
+			],
+			[
+				"test_c3",
+				"worms/data/wheel/test_c3.flags"
+			],
+			[
+				"test_c2",
+				"worms/data/wheel/test_c2.flags"
+			],
+			[
+				"BBlock",
+				"worms/bblock.py"
+			],
+			[
+				"edge_bat",
+				"worms/edge_batch.py"
+			],
+			[
+				"ed",
+				"worms/tests/test_edge_batch.py"
+			],
+			[
+				"O.sym",
+				"worms/rosetta_symdef/O.sym"
+			],
+			[
+				"datab",
+				"worms/database.py"
+			],
+			[
+				"ssd",
+				"worms/ssdag.py"
+			],
+			[
+				"test_data",
+				"worms/tests/test_database.py"
+			],
+			[
+				"envi",
+				"environment.yml"
+			],
+			[
+				"requi",
+				"requirements_rtd.txt"
+			],
+			[
+				"setup",
+				"setup.py"
+			],
+			[
+				"data",
+				"worms/database.py"
+			],
+			[
+				"test_c",
+				"worms/data/wheel/test_c6.flags"
+			],
+			[
+				"conta",
+				"worms/filters/interface_contacts.py"
+			],
+			[
+				"test_c2.",
+				"worms/data/wheel/test_c2.flags"
+			],
+			[
+				"C3_2",
+				"examples/C3_2comp.config"
+			],
+			[
+				"C4_2",
+				"examples/C4_2comp.config"
+			],
+			[
+				"c4",
+				"examples/C4_2comp.config"
+			],
+			[
+				"C3_",
+				"examples/C3_2comp.config"
+			],
+			[
+				"test_c3_t",
+				"examples/flags/test_c3_tiny_CNC.flags"
+			],
+			[
+				"test_c3_tin",
+				"examples/flags/test_c3_tiny_CCN.flags"
+			],
+			[
+				"small",
+				"examples/flags/test_c3_small.flags"
+			],
+			[
+				"test_wheel",
+				"test_cases/clash_score0/test_wheel_c5_N_CCY_NNN_CCY_NNN.flags"
+			],
+			[
+				"hash_",
+				"worms/criteria/hash_util.py"
+			],
+			[
+				"test_c3_small",
+				"examples/flags/test_c3_small.flags"
+			],
+			[
+				"pose_con",
+				"worms/pose_contortions.py"
+			],
+			[
+				"edge_ba",
+				"worms/edge_batch.py"
+			],
+			[
+				"edge.py",
+				"worms/edge.py"
+			],
+			[
+				"test_ed",
+				"worms/tests/test_edge_batch.py"
+			],
+			[
+				"iner",
+				"worms/filters/interface_contacts.py"
+			],
+			[
+				"filter",
+				"examples/filter_audit.py"
+			],
+			[
+				"test_lin",
+				"worms/tests/search/test_linear.py"
+			],
+			[
+				"test_edg",
+				"worms/tests/test_edge_batch.py"
+			],
+			[
+				"boun",
+				"worms/criteria/bounded.py"
+			],
+			[
+				"interfa",
+				"worms/filters/interface_contacts.py"
+			],
+			[
+				"dbf",
+				"worms/filters/db_filters.py"
+			],
+			[
+				"edg",
+				"worms/edge.py"
+			],
+			[
+				"test_c6.",
+				"worms/data/wheel/test_c6.flags"
+			],
+			[
+				"intef",
+				"worms/filters/interface_contacts.py"
+			],
+			[
+				"align",
+				"worms/filters/alignment_validator.py"
+			],
+			[
+				"db_filt",
+				"worms/filters/db_filters.py"
+			],
+			[
+				"au\t",
+				"examples/filter_audit.py"
+			],
+			[
+				"test_line",
+				"worms/tests/search/test_linear.py"
+			],
+			[
+				"test_edge",
+				"worms/tests/test_edge.py"
+			],
+			[
+				"database",
+				"worms/database.py"
+			],
+			[
+				"Cyc",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"__main",
+				"worms/__main__.py"
+			],
+			[
+				"runtest",
+				"util/runtests.py"
+			],
+			[
+				"line",
+				"worms/search/linear.py"
+			],
+			[
+				"build",
+				"examples/build_worms_database.py"
+			],
+			[
+				"test_shee",
+				"examples/flags/test_sheet_p6.flags"
+			],
+			[
+				"Edge",
+				"worms/edge.py"
+			],
+			[
+				"test_p321",
+				"examples/flags/test_sheet_p321.flags"
+			],
+			[
+				"cyc.",
+				"worms/criteria/cyclic.py"
+			],
+			[
+				"single",
+				"examples/flags/test_cyclic_c5_single.flags"
+			],
+			[
+				"unbou",
+				"worms/criteria/unbounded.py"
+			],
+			[
+				"test_Cry",
+				"examples/flags/test_Crystal_P213_C3_C3.flags"
+			],
+			[
+				"test_P213",
+				"examples/flags/test_Crystal_P213_C3_C3.flags"
+			],
+			[
+				"ssdag_po",
+				"worms/ssdag_pose.py"
+			],
+			[
+				"segments",
+				"worms/segments.py"
+			],
+			[
+				"c3_c3",
+				"test_c3_c3_stack.flags"
+			],
+			[
+				"test_",
+				"worms/data/wheel/test_c2.flags"
+			],
+			[
+				"test_c3\t",
+				"worms/data/wheel/test_c3.flags"
+			],
+			[
+				"lin",
+				"worms/search/linear.py"
+			],
+			[
+				"Eg",
+				"worms/edge.py"
+			],
+			[
+				".flags",
+				"test_c3_NNN.flags"
+			],
+			[
+				"resut",
+				"worms/search/result.py"
+			],
+			[
+				"database.py",
+				"worms/database.py"
+			],
+			[
+				"test_numba",
+				"worms/tests/test_numba.py"
+			],
+			[
+				"inter",
+				"worms/filters/interface_contacts.py"
+			],
+			[
+				"",
+				"worms/filters/alignment_validator.py"
+			],
+			[
+				"ali",
+				"worms/filters/alignment_validator.py"
+			],
+			[
+				"contact",
+				"worms/filters/contact_analyzer_work.py"
+			],
+			[
+				"segmen",
+				"worms/segments.py"
+			],
+			[
+				"bb",
+				"worms/bblock.py"
+			],
+			[
+				"segm",
+				"worms/segments.py"
+			],
+			[
+				"pose_cont",
+				"worms/pose_contortions.py"
+			],
+			[
+				"liner",
+				"worms/search/linear.py"
+			],
+			[
+				"clas",
+				"worms/filters/clash.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

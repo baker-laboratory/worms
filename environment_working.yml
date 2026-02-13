@@ -1,0 +1,109 @@
+name: worms
+channels:
+  - schrodinger
+  - conda-forge
+  - defaults
+  - bioconda
+  - https://pose:foldtree@conda.rosettacommons.org/
+dependencies:
+  # Core Python
+  - python=3.6.8
+  - pip
+  - setuptools
+  - wheel
+  
+  # Scientific computing core
+  - numpy=1.16.3
+  - scipy
+  - pandas
+  - matplotlib
+  - h5py
+  - netcdf4
+  - xarray
+  
+  # Parallel/distributed computing
+  - dask
+  - dask-core
+  - distributed
+  - numba=0.38.1
+  
+  # Development tools
+  - ipython
+  - pytest
+  - pytest-cov
+  - coverage
+  - sphinx_rtd_theme
+  
+  # Data formats and compression
+  - blosc
+  - hdf5
+  - pytables
+  - snappy
+  
+  # Molecular visualization/computation (try without versions first)
+  - apbs
+  #- pymol-open-source
+  
+  # System libraries
+  - openssl
+  - curl
+  - zlib
+  - ca-certificates
+  - certifi
+  
+  # Qt/GUI (if needed)
+  - pyqt
+  - qt
+  
+  # Other scientific
+  - pillow
+  - pyyaml
+  - requests
+  - click
+  - jinja2
+  
+  # Pyrosetta
+  - pyrosetta=2019.13+release.6fad4d4
+
+  # Missing stuff
+  - pympler=0.5
+
+  # Pip packages
+  - pip:
+      - alabaster==0.7.12
+      - attrs
+      - babel
+      - beautifulsoup4==4.9.3
+      - black
+      - breathe
+      - bs4==0.0.1
+      - docutils==0.16
+      - exhale
+      - hypothesis
+      - imagesize
+      - jupyter-console==6.0
+      - lxml==4.6.2
+      - mako
+      - pybind11
+      - pytest-forked
+      - pytest-repeat
+      - pytest-sugar
+      - pytest-xdist
+      - snowballstemmer
+      - soupsieve
+      - sphinx
+      - sphinxcontrib-applehelp
+      - sphinxcontrib-devhelp
+      - sphinxcontrib-htmlhelp
+      - sphinxcontrib-jsmath
+      - sphinxcontrib-qthelp
+      - sphinxcontrib-serializinghtml
+      - tabulate
+      - termcolor
+      - toml
+      - tqdm
+      - traittypes
+      - yapf
+      - homog==0.1.14
+      - xbin==0.1.7
+

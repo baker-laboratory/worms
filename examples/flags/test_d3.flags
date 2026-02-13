@@ -1,0 +1,5 @@
+--geometry D3(c3=0, c2=2)
+--bbconn
+	_N C3_N
+	CC Het:CC
+	N_ C2_N
